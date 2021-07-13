@@ -1,0 +1,34 @@
+ #clock { 
+            font-size: 200px; 
+            width: 1000px; 
+            margin: 200px; 
+            left: 40%;
+            top: 50%; 
+            position: center;
+            border: 2px solid black; 
+            border-radius: 20px; 
+            background-color: grey;
+        } 
+h1{
+	color: lightgrey;
+	font-size: 60px;
+	font-family: geneva;
+	left: 30%;
+	top: 5%;
+	position: absolute;
+
+}
+h3{
+	color: white;
+	font-size: 25px;
+	font-family: arial black;
+	left: 05%;
+	top: 70%;
+	position: absolute;
+
+}
+body{
+	background-image: url('https://static.scientificamerican.com/sciam/cache/file/70F6C444-BBA0-46E3-A51F3E8ABEAF6B23_source.jpg?w=590&h=800&4F401612-3F9F-44A4-90C79878CD806AFB');
+	background-repeat: repeat;
+	
+}
